@@ -8,7 +8,7 @@ import "C"
 
 import "fmt"
 
-//export GoFunction1
+// export GoFunction1
 func GoFunction1() {
 	fmt.Println("GoFunction1() is called.")
 }
